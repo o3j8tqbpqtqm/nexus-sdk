@@ -69,3 +69,5 @@ For more detailed instructions, visit the [Nexus CLI documentation][nexus-cli-do
 <!-- List of references -->
 
 [nexus-cli-docs]: https://docs.talus.network/talus-documentation/developer-docs/index-1/cli
+
+<!-- Auto-update: 2025-10-17T08:40:14.717502 -->
